@@ -9,5 +9,6 @@ Blue
 Unicorn
 Indigo
 Purple
+Magenta
 These are the colors of the rainbow.
 And the Unicorn
